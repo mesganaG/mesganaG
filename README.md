@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1>Hi 👋, I'm Mesgana Geletu</h1>
+<h3>Software Engineer | Mobile & Web Developer | AWS Enthusiast</h3>
+<!-- README.md for Mesgana Geletu -->
+<!-- test section -->
+
+###
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mesganaG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200"  alt="languages graph"  />
+</div>
 
 ###
 
@@ -20,17 +30,66 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
+<br>
+<br>
+ <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="30"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" height="30"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="30"  />
+  <img width="12" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+<!-- test section -->
+
+
+
+---
+
+🌱 **About Me**
+
+I’m a software engineer and University of Washington student with a passion for creating scalable, user-centric applications. From mobile health monitoring apps to cloud-integrated dashboards and developer tools, I enjoy solving real-world problems through clean and efficient code.
+
+💻 Currently interning at **Gekko Corporation**, working on a cross-platform mobile app with React Native and Splunk integration for real-time health monitoring.
+
+---
+
+### 🚀 Projects
+
+- 🔬 **[KitchenWhisper](https://kitchenwhisper.netlify.app/)** – Nutrition-focused recipe app using API integrations and ChartJS visualizations.
+- 📚 **[Dictionary Web App](https://mesganag.github.io/dictionary-web-app/)** – Interactive dictionary with pronunciation and UI accessibility.
+- 🗂️ **Linux File Manager Script** – Automates file sorting by type using Bash on Linux systems.
+- 📱 **Mobile Health App (Internship)** – iOS/Android app for health data tracking, Splunk dashboard integration.
+
+---
+
+### 🛠️ Technical Skills
+
+```txt
+Languages:      JavaScript, Python, Java, C++, C#, Bash, SQL
+Frameworks:     React, Node.js, Express.js, GraphQL, Expo
+Cloud & Tools:  AWS (Solutions Architect track), Docker, Git, GitHub, Linux
+Other:          REST APIs, Figma, Agile Development, OOP
+
+
+
