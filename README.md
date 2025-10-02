@@ -1,7 +1,6 @@
-<h1>Hi 👋, I'm Mesgana Geletu</h1>
+<h1>Hi, I'm Mesgana Geletu</h1>
 <h3>Software Engineer | Mobile & Web Developer | AWS Enthusiast</h3>
 <!-- README.md for Mesgana Geletu -->
-<!-- test section -->
 
 ###
 
@@ -9,10 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mesganaG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesganaG&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="200"  alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
